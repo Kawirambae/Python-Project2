@@ -1,4 +1,5 @@
 🦠 COVID-19 Global Data Tracker
+
 📊 Overview
 The COVID-19 Global Data Tracker is a data analysis project designed to explore global COVID-19 trends, using real-world data from Our World in Data. The project includes data cleaning, exploratory data analysis (EDA), and insightful visualizations to communicate the progression of the pandemic across selected countries.
 
