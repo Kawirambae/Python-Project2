@@ -18,7 +18,7 @@ Visualize trends using Matplotlib, Seaborn, and Plotly
 Generate narrative insights for reporting and presentations
 
 
-📁** Dataset**
+📁**Dataset**
 
 Source: Our World in Data - COVID-19 Dataset
 
@@ -27,8 +27,8 @@ Format: owid-covid-data.csv
 Key fields: date, location, total_cases, total_deaths, new_cases, total_vaccinations, population, etc.
 
 
-🔧 **Tools & Technologies
-**
+🔧 **Tools & Technologies**
+
 Python 3
 
 Pandas – for data manipulation
